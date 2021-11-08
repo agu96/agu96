@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  Agustina
 - 👀 I’m interested in learning
-- 🌱 HTML5, CSS3, MySQL, PHP
+- 🌱 HTML5, CSS3, JS, MySQL, PHP
 - 💞️ I’m looking to collaborate on anywhere
 - 📫 agustinavictoriaa@gmail.com
 
